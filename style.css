@@ -1,0 +1,19 @@
+ body {
+    background-size: cover;
+ }
+
+ .heading {
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+ }
+
+ button {
+    font-size: 20px;
+ }
+
+canvas {
+   border: 2px cyan;
+   border-radius: 10px;
+   margin-top: 150px;
+  }
